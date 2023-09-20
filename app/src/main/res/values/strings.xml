@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smena_Temi</string>
+    <string name="winner_message">Вы выиграли!</string>
+    <string name="pc_winner_message">Компьютер выиграл!</string>
+    <string name="newGame">Новая игра</string>
+    <string name="draw_message">Ничья</string>
+</resources>
